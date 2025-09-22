@@ -28,3 +28,5 @@ app.UseStaticFiles();
 app.UseOrchardCore();
 
 app.Run();
+
+//homepage and about poage added
